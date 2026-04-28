@@ -1,8 +1,7 @@
 # Sportsbook Odds Intelligence Pipeline
 
 > Automated pipeline that fetches, classifies, and logs live sportsbook
-> odds data every 15 minutes — built with Make.com, PHP/Laravel, MySQL,
-> and R for time-series analysis.
+> odds data every 15 minutes — built with Make.com, SQL, and R for time-series analysis.
 
 ## What it does
 
